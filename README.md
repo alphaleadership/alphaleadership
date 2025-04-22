@@ -1,5 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=alphaleadership)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![ GitHub stats](https://data-blake.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **alphaleadership/alphaleadership** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
