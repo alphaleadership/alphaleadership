@@ -1,4 +1,11 @@
-devcard:
+name: Tests
+
+on:
+    workflow_dispatch:
+
+jobs:
+  
+ devcard:
     runs-on: ubuntu-latest
     permissions:
       contents: write
